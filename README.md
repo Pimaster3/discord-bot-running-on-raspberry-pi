@@ -1,1 +1,1 @@
-# discord-bot-running-on-raspberry-pi
+# Discord Bot Running on Raspberry Pi
